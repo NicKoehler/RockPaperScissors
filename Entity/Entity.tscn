@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://c8quympisdbjs"]
+
+[ext_resource type="Script" path="res://Entity/Entity.cs" id="1"]
+
+[sub_resource type="CircleShape2D" id="1"]
+radius = 9.0
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+rotation = -1.5708
+disable_mode = 2
+script = ExtResource("1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("1")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.05, 0.05)
