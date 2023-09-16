@@ -2,6 +2,4 @@
 
 A stupid Rock Paper Scissors simulator made with Godot Engine.
 
-![](https://raw.githubusercontent.com/NicKoehler/RockPaperScissors/main/preview.gif)
-
-## [Click here to watch an high quality preview](https://vimeo.com/865110315)
+https://github.com/NicKoehler/RockPaperScissors/assets/53040044/da519be8-0031-41d8-be42-5ff08f4df7e7
